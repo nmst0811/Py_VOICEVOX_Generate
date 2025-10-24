@@ -1,0 +1,20 @@
+{
+  "v1-01": {
+    "id": "voice1-01",
+    "context": "音声案内を開始します。",
+    "wavName": "voice1-01.wav",
+    "metadata": {}
+  },
+  "v1-02": {
+    "id": "voice1-02",
+    "context": "音声案内を続けます。",
+    "wavName": "voice1-02.wav",
+    "metadata": {}
+  },
+  "v1-03": {
+    "id": "voice1-03",
+    "context": "音声案内を終了します。",
+    "wavName": "voice1-03.wav",
+    "metadata": {}
+  }
+}
